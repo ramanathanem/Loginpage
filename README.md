@@ -4,6 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 ![image](https://github.com/ramanathanem/Loginpage/assets/137532243/1d883676-3b18-459c-863a-0ebdd02ff3a1)
+![Uploading image.png…]()
 
 In the project directory, you can run:
 
