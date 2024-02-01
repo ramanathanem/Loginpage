@@ -1,7 +1,10 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## you can install node modules
+npm install
 
+# you can add redux devetool on google
 ## Available Scripts
 ![image](https://github.com/ramanathanem/Loginpage/assets/137532243/1d883676-3b18-459c-863a-0ebdd02ff3a1)
 ![image](https://github.com/ramanathanem/Loginpage/assets/137532243/928e86cf-d7e4-49c4-bd21-3d08180ef120)
